@@ -1,0 +1,14 @@
+{
+  "url": "http://localhost:3100",
+  "languages": ["en", "bn"],
+  "voice": { "voiceId": "MmKnPDHrcojbMd98A1Xv", "modelId": "eleven_v4" },
+  "cursorColor": "#7300d9",
+  "scale": "1.1",
+  "login": {
+    "path": "/login",
+    "email": "#email",
+    "password": "#password",
+    "submit": "#login-form [type=submit]",
+    "landed": "/app/"
+  }
+}

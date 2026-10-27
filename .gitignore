@@ -1,0 +1,7 @@
+node_modules/
+.env
+projects/*/.env
+# Generated, and rebuilt by engine/audio.js / captions.js (audio costs ElevenLabs credits to redo; back it up if that matters)
+projects/*/audio/
+projects/*/captions/
+out/
